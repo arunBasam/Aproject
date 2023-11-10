@@ -1,0 +1,12 @@
+import React from "react";
+
+const ButtonPage = () => {
+  return (
+    <div>
+      <h2>Button Page</h2>
+      <button>Proceed</button>
+    </div>
+  );
+};
+
+export default ButtonPage;
